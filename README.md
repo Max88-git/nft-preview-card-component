@@ -19,6 +19,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### The challenge
 
+The challenge requires you to build a preview card component for an NFT marketplace. You need to implement the design provided in Figma, which includes several interactive elements, such as hover effects.
+
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
@@ -42,6 +44,8 @@ Users should be able to:
 - Flexbox
 
 ### What I learnt
+
+Through this challenge, I learnt how to create more complex designs using CSS. I also learnt how to implement interactive elements such as hover effects.
 
 I experimented using the CSS @import rule to import Google fonts.
 
@@ -73,9 +77,11 @@ I also learnt how to create an overlay image icon on hover.
 
 ### Continued development
 
-For my upcoming projects, I need to concentrate on using advanced CSS to create effects, especially with box-shadows. There are undoubtedly several quick generators that I could investigate.
+I plan to continue practicing my CSS skills by completing more Frontend Mentor challenges. For my upcoming projects, I need to concentrate on using advanced CSS to create effects, especially with box-shadows. There are undoubtedly several quick generators that I could investigate.
 
 ### Useful resources
+
+[MDN Web Docs](https://developer.mozilla.org/en-US/) - This is my go-to resource for web development documentation.
 
 [How to Import Google Fonts in CSS File](https://www.w3docs.com/snippets/css/how-to-import-google-fonts-in-css-file.html#:~:text=Find%20the%20font%20and%20click,paste%20the%20codes%20you%20need.) - Tried something new with using the CSS @import rule to import Google fonts, rather than adding a link to the `<head>` of my HTML.
 
