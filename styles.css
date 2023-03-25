@@ -89,6 +89,7 @@ body {
   font-size: 1.1rem;
   padding: 20px 0;
   display: inline-block;
+  transition: 0.3s ease;
 }
 
 .text-container a:hover {
@@ -147,6 +148,7 @@ hr {
   font-weight: 400;
   font-size: 0.9rem;
   text-decoration: none;
+  transition: 0.3s ease;
 }
 
 .creator p a:hover {
